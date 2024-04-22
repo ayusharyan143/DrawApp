@@ -56,9 +56,10 @@ git clone https://github.com/your-username/DrawApp.git
 
 Contributions are welcome! If you encounter any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
